@@ -1,0 +1,13 @@
+body{
+    font-family: 'Comic Sans MS' ;
+    background-color: azure;
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Comic Sans MS' ;
+}
+a{
+    font-family: 'Comic Sans MS';
+}
+.CSfont{
+    font-family: 'Comic Sans MS' !important;
+}
